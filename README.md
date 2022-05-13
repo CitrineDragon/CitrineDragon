@@ -1,7 +1,6 @@
 <img src="https://github.com/CitrineDragon/Images/blob/master/githubReadMeBanner.PNG?raw=true" width="100%">
 
 <h3 align="center">A passionate Full Stack developer from San Diego</h3>
-
 <p align="center">
   <a href="https://www.brianregehr.me/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Website&color=informational&style=plastic&logo=javascript&logo-color=white"/>
@@ -20,6 +19,8 @@
   </a>
 </p>
 
+<p align="center"><a href="https://www.codewars.com/users/CitrineDragon" target="_blank"><img src="https://www.codewars.com/users/CitrineDragon/badges/small"></a></p>
+
 Building and enhancing software to help people is what I do. I have a passion for learning and improvement that has always been part of me. With my Operations background, I have consistently worked to make processes for companies simpler and more efficient. While working across diverse industries I was struck by how even small improvements in systems and processes universally made radical impacts on user happiness and satisfaction.
 
 Visit me at [my website](https://www.brianregehr.me/) for more information!
@@ -32,7 +33,7 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Splash Of Color Salon</h3>
       <p align="center">
-        <a target="_blank" href="https://splash-of-color-salon.netlify.app">
+        <a target="_blank" href="https://splash-of-color-salon.netlify.app" target="_blank">
             <img src="https://github.com/CitrineDragon/Images/blob/master/salon.gif?raw=true" width="100%" alt="Splash Of Color Salon"/>
         </a>
       </p>
@@ -46,7 +47,7 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">The Pearl Restaurant</h3>
       <p align="center">
-      <a target="_blank" href="https://the-pearl-restaurant.netlify.app">
+      <a target="_blank" href="https://the-pearl-restaurant.netlify.app" target="_blank">
             <img src="https://github.com/CitrineDragon/Images/blob/master/pearl.gif?raw=true" width="100%"  alt="The Pearl"/>
         </a>
       </p>
@@ -63,7 +64,7 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">BrianRegehr.me</h3>
       <p align="center">
-        <a target="_blank" href="https://www.brianregehr.me/">
+        <a target="_blank" href="https://www.brianregehr.me/" target="_blank">
           <img src="https://github.com/CitrineDragon/Images/blob/master/portfolio.gif?raw=true" width="100%" alt="Portfolio"/>
         </a>
   </p>
@@ -77,7 +78,7 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Level Ground</h3>
       <p align="center">
-        <a target="_blank" href="https://level-ground-mma.netlify.app/">
+        <a target="_blank" href="https://level-ground-mma.netlify.app/" target="_blank">
           <img src="https://github.com/CitrineDragon/Images/blob/master/level.gif?raw=true" width="100%" alt="Level Ground"/>
         </a>
       </p>
