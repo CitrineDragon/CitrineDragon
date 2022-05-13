@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Brian Regehr</h1>
 <h3 align="center">A passionate frontend developer from San Diego</h3>
 
+<a href="https://old.reddit.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Reddit&message=Reddit&color=informational"/>
+  </a>
+
+<img src='https://img.shields.io/static/v1?label=Reddit&message=Reddit&color=informational'
+
 - 👨‍💻 All of my projects are available at [www.brianregehr.me](www.brianregehr.me)
 
 - 📫 How to reach me **brian.regehr@gmail.com**
