@@ -31,62 +31,62 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Splash Of Color Salon</h3>
-        <br />
+      <p align="center">
         <a target="_blank" href="https://splash-of-color-salon.netlify.app">
-            <img src="https://github.com/CitrineDragon/Images/blob/master/Splash_Of_Color_Overview.PNG?raw=true" width="100%" alt="Splash Of Color Salon"/>
+            <img src="https://github.com/CitrineDragon/Images/blob/master/Splash_Of_Color_Overview.PNG?raw=true" width="75%" alt="Splash Of Color Salon"/>
         </a>
-        <br />
+      </p>
         <p align="center">
   <a href="https://splash-of-color-salon.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Website&color=informational&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, & CSS3</strong> - A stylistic website for a High-End San Diego salon.</p>
+        <p><strong>Javascript, HTML5, & CSS3</strong> - A premier, stylistic website for a High-End salon located in beautiful San Diego, CA.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">The Pearl Restaurant</h3>
-        <br />
+      <p align="center">
       <a target="_blank" href="https://the-pearl-restaurant.netlify.app">
-            <img src="https://github.com/CitrineDragon/Images/blob/master/The_Pearl_Resaurant.PNG?raw=true" width="100%"  alt="The Pearl"/>
+            <img src="https://github.com/CitrineDragon/Images/blob/master/The_Pearl_Resaurant.PNG?raw=true" width="75%"  alt="The Pearl"/>
         </a>
-        <br />
+      </p>
         <p align="center">
   <a href="https://the-pearl-restaurant.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Website&color=informational&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, & CSS3</strong> - A fully responsive website for The Pearl, one of San Diego's finest restaurants.</p>
+        <p><strong>Javascript, HTML5, & CSS3</strong> - A premier, fully responsive website for The Pearl, one of San Diego's finest upscale restaurants.</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">BrianRegehr.me</h3>
-      <br />
+      <p align="center">
         <a target="_blank" href="https://www.brianregehr.me/">
-          <img src="https://github.com/CitrineDragon/Images/blob/master/PortfolioOverview.PNG?raw=true" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/CitrineDragon/Images/blob/master/PortfolioOverview.PNG?raw=true" width="75%" alt="Portfolio"/>
         </a>
-      <br />
+  </p>
         <p align="center">
   <a href="https://www.brianregehr.me/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Website&color=informational&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, & CSS3</strong> - Take a look around my site and get in touch with me.</p>
+        <p><strong>Javascript, HTML5, & CSS3</strong> - Take a tour around my site and see what I have been up to then contact me to find out what we can build together!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Level Ground</h3>
-        <br />
+      <p align="center">
         <a target="_blank" href="https://level-ground-mma.netlify.app/">
-          <img src="https://github.com/CitrineDragon/Images/blob/master/Level_Ground_Overview.PNG?raw=true" width="100%" alt="Level Ground"/>
+          <img src="https://github.com/CitrineDragon/Images/blob/master/Level_Ground_Overview.PNG?raw=true" width="75%" alt="Level Ground"/>
         </a>
-        <br />
+      </p>
         <p align="center">
   <a href="https://level-ground-mma.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Website&color=informational&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, & CSS3</strong> - A fully responsive webiste for Level Ground (LG), urban youth cultivate grit and resilience through Mixed Martial Arts.</p>
+        <p><strong>Javascript, HTML5, & CSS3</strong> - A fully responsive webiste for Level Ground (LG), where urban youth cultivate grit and resilience through Mixed Martial Arts.</p>
     </td>
   </tr>
 </table>
