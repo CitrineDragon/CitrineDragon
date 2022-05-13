@@ -3,23 +3,23 @@
 <h3 align="center">A passionate Full Stack developer from San Diego</h3>
 <p align="center">
   <a href="https://www.brianregehr.me/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Website&color=informational&style=plastic&logo=javascript&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Website&color=informational&style=plastic&logo=javascript&logo-color=white" height="25px" />
   </a>
   <a href="https://www.linkedin.com/in/brianregehr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=success&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=success&style=plastic&logo=linkedin&logo-color=white" height="25px" />
   </a>
   <a href="https://twitter.com/BrianRegehr" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=informational&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=informational&style=plastic&logo=twitter&logo-color=white" height="25px" />
   </a>
   <a href="https://angel.co/u/brian-regehr" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=&message=AngelList&color=success&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=&message=AngelList&color=success&style=plastic&logo=angellist&logo-color=white" height="25px" />
   </a>
   <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=&message=Resume&color=informational&style=plastic&logo=react&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=&message=Resume&color=informational&style=plastic&logo=react&logo-color=white" height="25px" />
   </a>
 </p>
 
-<p align="center"><a href="https://www.codewars.com/users/CitrineDragon" target="_blank"><img src="https://www.codewars.com/users/CitrineDragon/badges/small"></a></p>
+<p align="center"><a href="https://www.codewars.com/users/CitrineDragon" target="_blank"><img src="https://www.codewars.com/users/CitrineDragon/badges/small" height="25px" ></a></p>
 
 Building and enhancing software to help people is what I do. I have a passion for learning and improvement that has always been part of me. With my Operations background, I have consistently worked to make processes for companies simpler and more efficient. While working across diverse industries I was struck by how even small improvements in systems and processes universally made radical impacts on user happiness and satisfaction.
 
@@ -97,12 +97,13 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=informational&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=critical&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=informational&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=critical&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=&message=WORDPRESS&color=informational&style=plastic&logo=wordpress"/>
-    <img src="https://img.shields.io/static/v1?label=&message=MONGO-DB&color=critical&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=informational&style=plastic&logo=html5" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=critical&style=plastic&logo=css3" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=informational&style=plastic&logo=javascript" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=React.JS&color=critical&style=plastic&logo=react" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Wordpress&color=informational&style=plastic&logo=wordpress" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Mongo-DB&color=critical&style=plastic&logo=mongodb" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Git&color=informational&style=plastic&logo=git" height="25px" />
 </p>
 
 
