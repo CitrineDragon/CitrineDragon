@@ -1,6 +1,6 @@
 <img src="https://github.com/CitrineDragon/Images/blob/master/githubReadMeBanner.PNG?raw=true" width="100%">
 
-<h3 align="center">A passionate frontend developer from San Diego</h3>
+<h3 align="center">A passionate Full Stack developer from San Diego</h3>
 
 <p align="center">
   <a href="https://www.brianregehr.me/" target="_blank">
