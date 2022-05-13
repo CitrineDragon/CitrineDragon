@@ -12,7 +12,7 @@
   <a href="https://twitter.com/BrianRegehr" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=informational&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://angel.co/u/brian-regehr" target="_blank">
       <img src="https://img.shields.io/static/v1?label=&message=AngelList&color=success&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="#" target="_blank">
