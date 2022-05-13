@@ -33,7 +33,7 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
       <h3 align="center">Splash Of Color Salon</h3>
       <p align="center">
         <a target="_blank" href="https://splash-of-color-salon.netlify.app">
-            <img src="https://github.com/CitrineDragon/Images/blob/master/Splash_Of_Color_Overview.PNG?raw=true" width="75%" alt="Splash Of Color Salon"/>
+            <img src="https://github.com/CitrineDragon/Images/blob/master/salon.gif?raw=true" width="100%" alt="Splash Of Color Salon"/>
         </a>
       </p>
         <p align="center">
@@ -47,7 +47,7 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
       <h3 align="center">The Pearl Restaurant</h3>
       <p align="center">
       <a target="_blank" href="https://the-pearl-restaurant.netlify.app">
-            <img src="https://github.com/CitrineDragon/Images/blob/master/The_Pearl_Resaurant.PNG?raw=true" width="75%"  alt="The Pearl"/>
+            <img src="https://github.com/CitrineDragon/Images/blob/master/pearl.gif?raw=true" width="100%"  alt="The Pearl"/>
         </a>
       </p>
         <p align="center">
@@ -64,7 +64,7 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
       <h3 align="center">BrianRegehr.me</h3>
       <p align="center">
         <a target="_blank" href="https://www.brianregehr.me/">
-          <img src="https://github.com/CitrineDragon/Images/blob/master/PortfolioOverview.PNG?raw=true" width="75%" alt="Portfolio"/>
+          <img src="https://github.com/CitrineDragon/Images/blob/master/portfolio.gif?raw=true" width="100%" alt="Portfolio"/>
         </a>
   </p>
         <p align="center">
@@ -78,7 +78,7 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
       <h3 align="center">Level Ground</h3>
       <p align="center">
         <a target="_blank" href="https://level-ground-mma.netlify.app/">
-          <img src="https://github.com/CitrineDragon/Images/blob/master/Level_Ground_Overview.PNG?raw=true" width="75%" alt="Level Ground"/>
+          <img src="https://github.com/CitrineDragon/Images/blob/master/level.gif?raw=true" width="100%" alt="Level Ground"/>
         </a>
       </p>
         <p align="center">
