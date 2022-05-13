@@ -1,4 +1,4 @@
-img src="https://github.com/CitrineDragon/Images/blob/master/githubReadMeBanner.PNG?raw=true" width="100%">
+<img src="https://github.com/CitrineDragon/Images/blob/master/githubReadMeBanner.PNG?raw=true" width="100%">
 
 <h1 align="center">Hi 👋, I'm Brian Regehr</h1>
 <h3 align="center">A passionate frontend developer from San Diego</h3>
