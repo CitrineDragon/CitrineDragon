@@ -97,11 +97,11 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=informational&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=informational&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=critical&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=informational&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=informational&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=critical&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=&message=WORDPRESS&color=informational&style=plastic&logo=wordpress"/>
-    <img src="https://img.shields.io/static/v1?label=&message=MONGO-DB&color=informational&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=&message=MONGO-DB&color=critical&style=plastic&logo=mongodb"/>
 </p>
 
 
