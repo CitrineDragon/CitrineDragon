@@ -3,19 +3,19 @@
 <h3 align="center">A passionate Full Stack developer from San Diego</h3>
 <p align="center">
   <a href="https://www.brianregehr.me/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Website&color=informational&style=plastic&logo=javascript&logo-color=white" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Website&color=informational&style=plastic&logo=javascript" height="25px" />
   </a>
   <a href="https://www.linkedin.com/in/brianregehr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=success&style=plastic&logo=linkedin&logo-color=white" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=success&style=plastic&logo=linkedin" height="25px" />
   </a>
   <a href="https://twitter.com/BrianRegehr" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=informational&style=plastic&logo=twitter&logo-color=white" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=informational&style=plastic&logo=twitter" height="25px" />
   </a>
   <a href="https://angel.co/u/brian-regehr" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=&message=AngelList&color=success&style=plastic&logo=angellist&logo-color=white" height="25px" />
+      <img src="https://img.shields.io/static/v1?label=&message=AngelList&color=success&style=plastic&logo=angellist" height="25px" />
   </a>
   <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=&message=Resume&color=informational&style=plastic&logo=react&logo-color=white" height="25px" />
+      <img src="https://img.shields.io/static/v1?label=&message=Resume&color=informational&style=plastic&logo=react" height="25px" />
   </a>
 </p>
 
@@ -97,14 +97,14 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=important&style=plastic&logo=html5" height="25px" />
-    <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=important&style=plastic&logo=css3" height="25px" />
-    <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=important&style=plastic&logo=javascript" height="25px" />
-    <img src="https://img.shields.io/static/v1?label=&message=React.JS&color=important&style=plastic&logo=react" height="25px" />
-    <img src="https://img.shields.io/static/v1?label=&message=Node.JS&color=important&style=plastic&logo=node.js" height="25px" />
-    <img src="https://img.shields.io/static/v1?label=&message=Mongo-DB&color=important&style=plastic&logo=mongodb" height="25px" />
-    <img src="https://img.shields.io/static/v1?label=&message=Git&color=important&style=plastic&logo=git" height="25px" />
-    <img src="https://img.shields.io/static/v1?label=&message=Wordpress&color=important&style=plastic&logo=wordpress" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=informational&style=plastic&logo=html5" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=informational&style=plastic&logo=css3" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=informational&style=plastic&logo=javascript" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=React.JS&color=informational&style=plastic&logo=react" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Node.JS&color=informational&style=plastic&logo=node.js" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Mongo-DB&color=informational&style=plastic&logo=mongodb" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Git&color=informational&style=plastic&logo=git" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Wordpress&color=informational&style=plastic&logo=wordpress" height="25px" />
 </p>
 
 
