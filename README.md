@@ -97,13 +97,14 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=informational&style=plastic&logo=html5" height="25px" />
-    <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=critical&style=plastic&logo=css3" height="25px" />
-    <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=informational&style=plastic&logo=javascript" height="25px" />
-    <img src="https://img.shields.io/static/v1?label=&message=React.JS&color=critical&style=plastic&logo=react" height="25px" />
-    <img src="https://img.shields.io/static/v1?label=&message=Wordpress&color=informational&style=plastic&logo=wordpress" height="25px" />
-    <img src="https://img.shields.io/static/v1?label=&message=Mongo-DB&color=critical&style=plastic&logo=mongodb" height="25px" />
-    <img src="https://img.shields.io/static/v1?label=&message=Git&color=informational&style=plastic&logo=git" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=important&style=plastic&logo=html5" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=important&style=plastic&logo=css3" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=important&style=plastic&logo=javascript" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=React.JS&color=important&style=plastic&logo=react" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Node.JS&color=important&style=plastic&logo=node.js" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Mongo-DB&color=important&style=plastic&logo=mongodb" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Git&color=important&style=plastic&logo=git" height="25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Wordpress&color=important&style=plastic&logo=wordpress" height="25px" />
 </p>
 
 
