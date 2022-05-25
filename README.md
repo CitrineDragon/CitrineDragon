@@ -94,6 +94,39 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
         <p><strong>Javascript, HTML5, & CSS3</strong> - A fully responsive webiste for Level Ground (LG), where urban youth cultivate grit and resilience through Mixed Martial Arts.</p>
     </td>
   </tr>
+  
+<!--   Third Row -->
+   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Spaced Out</h3>
+      <p align="center">
+        <a target="_blank" href="https://spaced-out.netlify.app" target="_blank">
+          <img src="https://github.com/CitrineDragon/Images/blob/master/spacedOut.gif?raw=true" width="100%" alt="Space Facts"/>
+        </a>
+  </p>
+        <p align="center">
+  <a href="https://spaced-out.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=SpacedOut&color=informational&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, & CSS3</strong> - Get daily images and space facts at the push of a button. Experience space like never before and learn interesting information about every image.</p>
+    </td>
+<!--     <td width="50%" valign="top">
+      <h3 align="center">Level Ground</h3>
+      <p align="center">
+        <a target="_blank" href="https://level-ground-mma.netlify.app/" target="_blank">
+          <img src="https://github.com/CitrineDragon/Images/blob/master/level.gif?raw=true" width="100%" alt="Level Ground"/>
+        </a>
+      </p>
+        <p align="center">
+  <a href="https://level-ground-mma.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Website&color=informational&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, & CSS3</strong> - A fully responsive webiste for Level Ground (LG), where urban youth cultivate grit and resilience through Mixed Martial Arts.</p>
+    </td> -->
+  </tr>
+  
 </table>
 
 
