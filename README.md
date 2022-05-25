@@ -20,11 +20,15 @@
   </a>
 </p>
 
-<p align="center"><a href="https://www.codewars.com/users/CitrineDragon" target="_blank"><img src="https://www.codewars.com/users/CitrineDragon/badges/small" height="25px" ></a></p>
-
 Building and enhancing software to help people is what I do. I have a passion for learning and improvement that has always been part of me. With my Operations background, I have consistently worked to make processes for companies simpler and more efficient. While working across diverse industries I was struck by how even small improvements in systems and processes universally made radical impacts on user happiness and satisfaction.
 
 Visit me at [my website](https://www.brianregehr.me/) for more information!
+
+<br>
+
+<p align="center"><a href="https://www.codewars.com/users/CitrineDragon" target="_blank"><img src="https://www.codewars.com/users/CitrineDragon/badges/small" height="25px" ></a></p>
+
+<section align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=CitrineDragon&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></section>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
