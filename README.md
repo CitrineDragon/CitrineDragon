@@ -15,7 +15,7 @@
   <a href="https://angel.co/u/brian-regehr" target="_blank">
       <img src="https://img.shields.io/static/v1?label=&message=AngelList&color=success&style=plastic&logo=angellist" height="25px" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://docs.google.com/document/d/1tOYjI_cQzw4gcA2RrZMqnJgsEVXJBTTj/edit" target="_blank">
       <img src="https://img.shields.io/static/v1?label=&message=Resume&color=informational&style=plastic&logo=react" height="25px" />
   </a>
 </p>
