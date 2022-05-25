@@ -106,7 +106,7 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
   </p>
         <p align="center">
   <a href="https://spaced-out.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=SpacedOut&color=informational&style=plastic&logo=javascript&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Website&color=informational&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, HTML5, & CSS3</strong> - Get daily images and space facts at the push of a button. Experience space like never before and learn interesting information about every image.</p>
