@@ -67,6 +67,7 @@ website](https://www.brianregehr.me/) for more information!
 
 <!-- Projects -->
 <h1 align="center">Projects</h1>
+
 <table bordercolor="#66b2b2">
   <!-- First Row -->
   <!-- Splash Of Color -->
@@ -188,11 +189,7 @@ website](https://www.brianregehr.me/) for more information!
       <h3 align="center">Simon Benjamin</h3>
       <p align="center">
         <a href="https:www.simonbenjamin.info" target="_blank">
-          <img
-            src="https://github.com/CitrineDragon/Images/blob/master/sb.gif?raw=true"
-            width="100%"
-            alt="Simon Benjamin"
-          />
+          <img src="" width="100%" alt="Simon Benjamin" />
         </a>
       </p>
       <p align="center">
