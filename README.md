@@ -79,6 +79,7 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
       </p>
         <p><strong>Javascript, HTML5, & CSS3</strong> - Take a tour around my site and see what I have been up to then contact me to find out what we can build together!</p>
     </td>
+    
     <td width="50%" valign="top">
       <h3 align="center">Level Ground</h3>
       <p align="center">
@@ -111,7 +112,7 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
       </p>
         <p><strong>Javascript, HTML5, & CSS3</strong> - Get daily images and space facts at the push of a button. Experience space like never before and learn interesting information about every image.</p>
     </td>
-<!--     <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Level Ground</h3>
       <p align="center">
         <a target="_blank" href="https://level-ground-mma.netlify.app/" target="_blank">
@@ -124,7 +125,7 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
   </a>
       </p>
         <p><strong>Javascript, HTML5, & CSS3</strong> - A fully responsive webiste for Level Ground (LG), where urban youth cultivate grit and resilience through Mixed Martial Arts.</p>
-    </td> -->
+    </td>
   </tr>
   
 </table>
