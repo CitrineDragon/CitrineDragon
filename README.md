@@ -189,11 +189,15 @@ website](https://www.brianregehr.me/) for more information!
       <h3 align="center">Simon Benjamin</h3>
       <p align="center">
         <a href="https:www.simonbenjamin.info" target="_blank">
-          <img src="" width="100%" alt="Simon Benjamin" />
+          <img
+            src="https://github.com/CitrineDragon/Images/blob/master/sb.gif?raw=true"
+            width="100%"
+            alt="Simon Benjamin"
+          />
         </a>
       </p>
       <p align="center">
-        <a href="https://spaced-out.netlify.app" target="_blank">
+        <a href="https://simonbenjamin.info" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=&message=HTML5&color=informational&style=plastic&logo=html5"
             height="25px"
