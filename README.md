@@ -130,7 +130,6 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
     </td>
      
 <!-- Third Row -->
-     </td>
     <td width="50%" valign="top">
       <h3 align="center">The Pearl Restaurant</h3>
       <p align="center">
