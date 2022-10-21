@@ -67,7 +67,6 @@ website](https://www.brianregehr.me/) for more information!
 
 <!-- Projects -->
 <h1 align="center">Projects</h1>
-
 <table bordercolor="#66b2b2">
   <!-- First Row -->
   <!-- Splash Of Color -->
