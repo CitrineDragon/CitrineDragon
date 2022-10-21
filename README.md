@@ -31,6 +31,7 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
 <section align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=CitrineDragon&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></section>
 
 <h1 align="center">Projects</h1>
+
 <table bordercolor="#66b2b2">
   
   <tr>
@@ -96,7 +97,7 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
     </td>
   </tr>
   
-<!--   Third Row -->
+<!--   Second Row -->
    <tr>
     <td width="50%" valign="top">
       <h3 align="center">Spaced Out</h3>
@@ -112,6 +113,56 @@ Visit me at [my website](https://www.brianregehr.me/) for more information!
       </p>
         <p><strong>Javascript, HTML5, & CSS3</strong> - Get daily images and space facts at the push of a button. Experience space like never before and learn interesting information about every image.</p>
     </td>
+     <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Simon Benjamin</h3>
+      <p align="center">
+        <a target="_blank" href="https:www.simonbenjamin.info" target="_blank">
+          <img src="https://github.com/CitrineDragon/Images/blob/master/spacedOut.gif?raw=true" width="100%" alt="Space Facts"/>
+        </a>
+  </p>
+        <p align="center">
+  <a href="https://spaced-out.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Website&color=red&style=plastic&logo=javascript&logo-color=white" height="25px"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, & CSS3</strong> - Check out the latest works of the esteemed author Simon Benjamin. See what they are currently working on and where you can purchase the first to books of their trilogy, Scam Seduction & Beyond Billionaire.</p>
+    </td>
+     
+<!-- Third Row -->
+     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">The Pearl Restaurant</h3>
+      <p align="center">
+      <a target="_blank" href="https://the-pearl-restaurant.netlify.app" target="_blank">
+            <img src="https://github.com/CitrineDragon/Images/blob/master/pearl.gif?raw=true" width="100%"  alt="The Pearl"/>
+        </a>
+      </p>
+        <p align="center">
+  <a href="https://the-pearl-restaurant.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Website&color=red&style=plastic&logo=javascript&logo-color=white" height="25px"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, & CSS3</strong> - A premier, fully responsive website for The Pearl, one of San Diego's finest upscale restaurants.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">BrianRegehr.me</h3>
+      <p align="center">
+        <a target="_blank" href="https://www.brianregehr.me/" target="_blank">
+          <img src="https://github.com/CitrineDragon/Images/blob/master/portfolio.gif?raw=true" width="100%" alt="Portfolio"/>
+        </a>
+  </p>
+        <p align="center">
+  <a href="https://www.brianregehr.me/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Website&color=red&style=plastic&logo=javascript&logo-color=white" height="25px"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, & CSS3</strong> - Take a tour around my site and see what I have been up to then contact me to find out what we can build together!</p>
+    </td>
+    
     <td width="50%" valign="top">
       <h3 align="center">Level Ground</h3>
       <p align="center">
