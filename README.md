@@ -183,7 +183,6 @@ website](https://www.brianregehr.me/) for more information!
         build together!
       </p>
     </td>
-
     <!-- Simon Benjamin -->
     <td width="50%" valign="top">
       <h3 align="center">Simon Benjamin</h3>
@@ -213,10 +212,8 @@ website](https://www.brianregehr.me/) for more information!
         </a>
       </p>
       <p>
-        <strong>Javascript, HTML5, & CSS3</strong> - Check out the latest works
-        of the esteemed author Simon Benjamin. See what they are currently
-        working on and where you can purchase the first to books of their
-        trilogy, Scam Seduction & Beyond Billionaire.
+        <strong>Javascript, HTML5, & CSS3</strong> - Take a look a the recent
+        works of the esteemed San Diego author Simon Benjamin.
       </p>
     </td>
   </tr>
