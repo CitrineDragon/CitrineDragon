@@ -187,7 +187,7 @@ website](https://www.brianregehr.me/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Simon Benjamin</h3>
       <p align="center">
-        <a href="https:www.simonbenjamin.info" target="_blank">
+        <a href="https://www.simonbenjamin.info" target="_blank">
           <img
             src="https://github.com/CitrineDragon/Images/blob/master/sb.gif?raw=true"
             width="100%"
