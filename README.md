@@ -196,7 +196,7 @@ website](https://www.brianregehr.me/) for more information!
         </a>
       </p>
       <p align="center">
-        <a href="https://simonbenjamin.info" target="_blank">
+        <a href="https://simonbenjamin.org" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=&message=HTML5&color=informational&style=plastic&logo=html5"
             height="25px"
